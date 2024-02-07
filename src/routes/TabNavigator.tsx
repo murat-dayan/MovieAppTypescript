@@ -27,6 +27,7 @@ const TabNavigator = () => {
 
         return iconName ? <Icon name={iconName} size={30} color={color} /> : null
       }
+
     })}
     
     >
